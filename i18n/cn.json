@@ -1,0 +1,68 @@
+{
+  "hero": {
+    "hello": "嗨, 我是sking",
+    "dev": "全栈开发工程师",
+    "author": "sking"
+  },
+  "titles": {
+    "home": "主页",
+    "aboutme": "关于我",
+    "projects": "项目",
+    "contact": "联系",
+    "blog":"博客"
+  },
+  "me": {
+    "intro": [
+      "大龄北漂瞎折腾程序猿:",
+      "好奇心严重过剩，学无边界；做过几年.net，winform，wpf，sliverlight等微软生态产品，熟悉完整的开发链路上下游，做过技术经理，前端负责人，架构师；",
+      "带领团队从零到一实现过三套低代码平台，在低代码方面有一些见解，总结成一句话：对于各方成本来说可有可无，对于品牌宣传来说，小心搬起石头砸自己的脚；",
+      "作为一个前端 node，deno，uniapp，electron （最早玩过 node-webkit ）就不说了，玩过 go，flutter；最近着迷 rust、wasm、tauri生态，被rust的代码编写规范深深吸引,希望以后能从事 rust 方面的开发；"
+      
+    ],
+    "education": {
+      "title": "教育",
+      "edux": [
+        {
+          "title": "北京大学",
+          "date": "2009.9 - 2013.7",
+          "text": "计算机，宿舍打dota"
+        }
+      ]
+    },
+    "experience": {
+      "title": "经验",
+      "edux": [
+        {
+          "title": "百度",
+          "date": "2020-2021",
+          "text": "资深前端"
+        },
+        {
+          "title": "中国电子",
+          "date": "2018-2020",
+          "text": "前端负责人、技术经理"
+        }
+      ]
+    },
+    "skills": {
+      "title": "能力"
+    }
+  },
+  "contact": {
+    "please": "想取得联系",
+    "send": "Send",
+    "sent": "Sent",
+    "thanks": "Thank you for reaching out, I'll get back to you ASAP!",
+    "back": "Back."
+  },
+  "footer": {
+    "dev": "全栈瞎折腾开发工程师",
+    "links": "Links",
+    "legal": "Legal",
+    "madewith": "Made with",
+    "rights": "All rights reserved"
+  },
+  "blog": {
+    "wip": "持续更新博客"
+  }
+}
