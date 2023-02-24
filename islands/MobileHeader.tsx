@@ -7,7 +7,6 @@ import { T } from "../state.ts";
 export default function MobileHeader(props: Omit<HeaderProps, "sticky">) {
   const checked = useSignal(false);
   const t = T.value;
-  console.log(props);
   return (
     <div
       class={`relative block text-lg font-bold text-gray-700 dark:text-gray-300 sm:hidden`}

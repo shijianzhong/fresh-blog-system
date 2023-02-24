@@ -5,6 +5,7 @@ import {
   BrandLinkedin,
   BrandMalt,
   BrandTwitter,
+  BrandWechat
 } from "./icons/footer.tsx";
 
 export default function Footer() {
@@ -29,13 +30,8 @@ export default function Footer() {
 
   const socials = [
     {
-      icon: BrandLinkedin,
-      href: "https://www.linkedin.com/in/guillaumecomtep/",
-      ariaLabel: "LinkedIn",
-    },
-    {
-      icon: BrandMalt,
-      href: "https://www.malt.fr/profile/guillaumecomte2",
+      icon: BrandWechat,
+      href: "/img/wechat",
       ariaLabel: "Malt",
     },
     {
