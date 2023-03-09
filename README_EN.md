@@ -1,14 +1,10 @@
 <!--
  * @Date: 2023-02-21 01:24:24
  * @LastEditors: shijianzhong 994129509@qq.com
- * @LastEditTime: 2023-03-09 14:55:45
+ * @LastEditTime: 2023-03-09 15:06:32
  * @FilePath: /www-main/README_EN.md
 -->
-# Base on fresh's blog system
 
-## Full Stack Web Developer
-
-![Made with Fresh(dark)](./static/fresh-badge-dark.svg)
 
 <h1 align="center">
   <img src="./static/mdicon.png" width="128" />
@@ -17,9 +13,7 @@
   <br>
 </h1>
 
-<h3 align="center">
-一个基于deno和fresh的静态博客模版框架
-</h3>
+<h3 align="center">A static blog template framework based on deno and fresh</h3>
 
 <div align="center">
 <img alt="GitHub" src="https://img.shields.io/github/license/shijianzhong/fresh-blog-system?color=%23">
@@ -27,57 +21,57 @@
 </div>
 
 <h3 align="center">
-<a href="https://github.com/shijianzhong/fresh-blog-system/master/README.md" target="_blank">中文</a>
-<a href="https://github.com/shijianzhong/fresh-blog-system/master/README_EN.md">English</a> |
+<a href="https://github.com/shijianzhong/fresh-blog-system/master/README.md">中文</a> |
+<a href="https://github.com/shijianzhong/fresh-blog-system/blob/master/README_EN.md" target="_blank">English</a>
 </h3>
 
-## 简介
+## Brief
 
-`Delicious` 想到新鲜，没玩过，没用过的，就想用delicious来命名
+`Delicious` When i think of something new, new or unused, I can use delicious to describe it
 
-## 功能
+## Ability
 
-- 自我介绍
-- 博客
+- resume
+- blog
 
-## 未完成
+## Incomplete
 
-- [x] 博客分类
-- [x] 博客评论
-- [x] 增加主题
-
-
-## 下载
+- [x] Blog classification
+- [x] BLog comments
+- [x] add new theme
 
 
+## Download
 
-## 开发
 
-你需要安装 `deno` 详细步骤查看 [这里](https://tauri.app/zh-cn/v1/guides/getting-started/prerequisites) ，然后按如下命令进行开发
+
+## Develop
+
+You need install `deno` Detailed step view [here](https://deno.land/)
 
 ```shell
 git clone
 ```
 
-然后
+Then
 
 ```shell
 cd fresh-blog-system
 ```
 
-运行
+Run
 
 ```shell
 deno task start
 ```
 
-## 建议
+## Suggest
 
-👏🏻 非常欢迎提`Issue`和`PR`！毕竟一个人的力量有限。
+👏🏻 Welcome to mention 'Issue' and 'PR'! After all, one's power is limited。
 
-## 技术栈
+## Technology stack
 
-`Delicious` 基于如下技术栈：
+`Delicious` Based on the following technology stacks：
 
 - [Deno](https://deno.land/): The easiest,most secure JavaScript runtime..
 - [fresh](https://fresh.deno.dev/): The next-gen web framework
@@ -86,3 +80,5 @@ deno task start
 ## License
 
 Apache-2.0 license. See [License here](./LICENSE) for details.
+
+![Made with Fresh(dark)](./static/fresh-badge-dark.svg)
