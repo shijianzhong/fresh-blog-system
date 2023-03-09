@@ -1,14 +1,14 @@
 <!--
  * @Date: 2023-02-21 01:24:24
  * @LastEditors: shijianzhong 994129509@qq.com
- * @LastEditTime: 2023-03-09 14:00:58
+ * @LastEditTime: 2023-03-09 14:12:25
  * @FilePath: /www-main/README.md
 -->
 # Base on fresh's blog system
 
 ## Full Stack Web Developer
 
-![Made with Fresh(dark)](./www/static/fresh-badge-dark.svg)
+![Made with Fresh(dark)](./static/fresh-badge-dark.svg)
 
 ```md
 ![Blog:](https://sking.deno.dev/)
