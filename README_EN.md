@@ -1,7 +1,7 @@
 <!--
  * @Date: 2023-02-21 01:24:24
  * @LastEditors: shijianzhong 994129509@qq.com
- * @LastEditTime: 2023-03-09 14:52:43
+ * @LastEditTime: 2023-03-09 14:55:45
  * @FilePath: /www-main/README_EN.md
 -->
 # Base on fresh's blog system
@@ -11,7 +11,7 @@
 ![Made with Fresh(dark)](./static/fresh-badge-dark.svg)
 
 <h1 align="center">
-  <img src="./mdicon.png" width="128" />
+  <img src="./static/mdicon.png" width="128" />
   <br>
   Delicious
   <br>

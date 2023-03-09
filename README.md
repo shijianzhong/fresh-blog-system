@@ -1,13 +1,13 @@
 <!--
  * @Date: 2023-02-21 01:24:24
  * @LastEditors: shijianzhong 994129509@qq.com
- * @LastEditTime: 2023-03-09 14:52:35
+ * @LastEditTime: 2023-03-09 14:54:48
  * @FilePath: /www-main/README.md
 -->
 
 
 <h1 align="center">
-  <img src="./mdicon.png" width="128" />
+  <img src="./static/mdicon.png" width="128" />
   <br>
   Delicious
   <br>
@@ -21,8 +21,8 @@
 </div>
 
 <h3 align="center">
-<a href="https://github.com/shijianzhong/fresh-blog-system/master/README.md" target="_blank">中文</a>
-<a href="https://github.com/shijianzhong/fresh-blog-system/master/README_EN.md">English</a> |
+<a href="https://github.com/shijianzhong/fresh-blog-system/master/README.md">中文</a> |
+<a href="https://github.com/shijianzhong/fresh-blog-system/master/README_EN.md" target="_blank">English</a>
 </h3>
 
 ## 简介
