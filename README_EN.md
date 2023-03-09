@@ -1,7 +1,7 @@
 <!--
  * @Date: 2023-02-21 01:24:24
  * @LastEditors: shijianzhong 994129509@qq.com
- * @LastEditTime: 2023-03-09 15:06:32
+ * @LastEditTime: 2023-03-09 15:09:49
  * @FilePath: /www-main/README_EN.md
 -->
 
@@ -21,7 +21,7 @@
 </div>
 
 <h3 align="center">
-<a href="https://github.com/shijianzhong/fresh-blog-system/master/README.md">中文</a> |
+<a href="https://github.com/shijianzhong/fresh-blog-system/blob/master/README.md">中文</a> |
 <a href="https://github.com/shijianzhong/fresh-blog-system/blob/master/README_EN.md" target="_blank">English</a>
 </h3>
 
