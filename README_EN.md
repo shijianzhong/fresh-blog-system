@@ -1,10 +1,14 @@
 <!--
  * @Date: 2023-02-21 01:24:24
  * @LastEditors: shijianzhong 994129509@qq.com
- * @LastEditTime: 2023-03-09 14:42:45
- * @FilePath: /www-main/README.md
+ * @LastEditTime: 2023-03-09 14:41:56
+ * @FilePath: /www-main/README_EN.md
 -->
+# Base on fresh's blog system
 
+## Full Stack Web Developer
+
+![Made with Fresh(dark)](./static/fresh-badge-dark.svg)
 
 <h1 align="center">
   <img src="./md/icon.png" width="128" />
@@ -13,7 +17,9 @@
   <br>
 </h1>
 
-<h3 align="center">一个基于deno和fresh的静态博客模版框架</h3>
+<h3 align="center">
+一个基于deno和fresh的静态博客模版框架
+</h3>
 
 <div align="center">
 <img alt="GitHub" src="https://img.shields.io/github/license/shijianzhong/fresh-blog-system?color=%23">
@@ -27,7 +33,7 @@
 
 ## 简介
 
-`Delicious` 想到新鲜，没玩过，没用过的，就想到用delicious来形容
+`Delicious` 想到新鲜，没玩过，没用过的，就想用delicious来命名
 
 ## 功能
 
@@ -47,7 +53,7 @@
 
 ## 开发
 
-你需要安装 `deno` 详细步骤查看 [这里](https://deno.land/) ，然后按如下命令进行开发
+你需要安装 `deno` 详细步骤查看 [这里](https://tauri.app/zh-cn/v1/guides/getting-started/prerequisites) ，然后按如下命令进行开发
 
 ```shell
 git clone
@@ -80,5 +86,3 @@ deno task start
 ## License
 
 Apache-2.0 license. See [License here](./LICENSE) for details.
-
-![Made with Fresh(dark)](./static/fresh-badge-dark.svg)
