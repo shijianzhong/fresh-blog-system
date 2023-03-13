@@ -1,7 +1,7 @@
 /*
  * @Date: 2023-02-22 14:47:22
  * @LastEditors: shijianzhong 994129509@qq.com
- * @LastEditTime: 2023-02-23 18:23:27
+ * @LastEditTime: 2023-03-13 11:09:55
  * @FilePath: /www-main/routes/blog/[slug].tsx
  */
 import { Handlers, PageProps } from "$fresh/server.ts";
@@ -28,7 +28,7 @@ export default function PostPage(props: PageProps<Data>) {
     ? (
       <>
         <BlogDetailHeader title={post.title} />
-        <Container>
+        <Container >
           <h1 class="font-bold text-5xl pt-20">{post.title}</h1>
           <time class="inline-block mt-4">
             {new Date(post.publishedAt).toLocaleDateString("en-us", {
@@ -39,11 +39,12 @@ export default function PostPage(props: PageProps<Data>) {
           </time>
           <style dangerouslySetInnerHTML={{ __html: gfm.CSS }} />
           <article
-            class="mt-12 markdown-body "
+            class="mt-12 markdown-body pb-[25.5rem] md:pb-[13.5rem]"
             dangerouslySetInnerHTML={{ __html: gfm.render(post.content) }}
           />
         </Container>
         <div class="h-5"></div>
+        <Footer></Footer>
       </>
     )
     : (
