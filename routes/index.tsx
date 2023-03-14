@@ -36,17 +36,17 @@ function Projects() {
       <div class="grid grid-cols-1 gap-4 sm:grid-cols-2">
         <Project
           title="基于rust+tauri+vue3的随手记"
-          href="https://guillaumecomte.deno.dev"
+          href="https://github.com/shijianzhong/tarui-vue3-handle-note"
           text="tauri, rust, vue3, note,chatgpt"
           github="https://github.com/shijianzhong/tarui-vue3-handle-note"
         />
         <Project
           title="一起学rust"
-          href="https://guigui64.github.io/react-uis/"
+          href="https://github.com/shijianzhong/Let-s-learn-rust-together"
           text="Rust,word,xmind,笔记"
           github="https://github.com/shijianzhong/Let-s-learn-rust-together"
         />
-        <Project
+        {/* <Project
           title="Advent of JS/CSS"
           href="https://guigui64-advent-of-js-css.deno.dev/"
           text="2022 JS/CSS challenges (WIP)"
@@ -63,7 +63,7 @@ function Projects() {
           href="https://guigui64.github.io/bookfinder/"
           text="React, Google books API"
           github="#"
-        />
+        /> */}
       </div>
     </section>
   );
