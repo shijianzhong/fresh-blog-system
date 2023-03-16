@@ -12,4 +12,4 @@ tags: [tauri,rust]
 tauri = { version = "1.1.1", features = ["api-all", "devtools","updater"] }
 ```
 
-==tips：这个只是控制devtools，右键菜单和其他快捷键还需要再js层禁用==
+***tips***：这个只是控制devtools，右键菜单和其他快捷键还需要再js层禁用
