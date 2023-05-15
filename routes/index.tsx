@@ -90,6 +90,8 @@ export default function Home(props: PageProps<Data>) {
         />
         <meta name="sking" content="全栈开发工程师"></meta>
         <meta name="keywords" content="html5,web,前端,rust,tauri"></meta>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8317527679530231"
+     crossorigin="anonymous"></script>
       </Head>
       <Header active="/" left={LINKS} lang={props.data.lang} />
       <Hero />
@@ -101,6 +103,7 @@ export default function Home(props: PageProps<Data>) {
           {/* <Contact /> */}
         </div>
       </main>
+
       <Footer />
     </>
   );

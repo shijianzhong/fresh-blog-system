@@ -1,7 +1,7 @@
 /*
  * @Date: 2023-02-21 01:24:24
  * @LastEditors: shijianzhong 994129509@qq.com
- * @LastEditTime: 2023-02-23 15:42:26
+ * @LastEditTime: 2023-05-15 14:19:07
  * @FilePath: /www-main/routes/blog.tsx
  */
 import { Head } from "$fresh/runtime.ts";
@@ -46,6 +46,8 @@ export default function Blog(props: PageProps<Data>) {
           name="description"
           content="sking - Full Stack Web Developer - Blog"
         />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8317527679530231"
+     crossorigin="anonymous"></script>
       </Head>
       <Header active="/blog" lang={props.data.lang} />
       <main class="mx-auto mt-12 max-w-screen-lg w-full  overflow-x-auto px-2 pt-10 pb-[25.5rem] md:pb-[13.5rem]">
