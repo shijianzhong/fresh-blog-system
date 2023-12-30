@@ -11,7 +11,8 @@ import * as $4 from "./routes/blog.tsx";
 import * as $5 from "./routes/blog/[slug].tsx";
 import * as $6 from "./routes/img/[type].tsx";
 import * as $7 from "./routes/index.tsx";
-import * as $8 from "./routes/send.tsx";
+import * as $8 from "./routes/pricing.tsx";
+import * as $9 from "./routes/send.tsx";
 import * as $$0 from "./islands/ColorMode.tsx";
 import * as $$1 from "./islands/Language.tsx";
 import * as $$2 from "./islands/MobileHeader.tsx";
@@ -27,7 +28,8 @@ const manifest = {
     "./routes/blog/[slug].tsx": $5,
     "./routes/img/[type].tsx": $6,
     "./routes/index.tsx": $7,
-    "./routes/send.tsx": $8,
+    "./routes/pricing.tsx": $8,
+    "./routes/send.tsx": $9,
   },
   islands: {
     "./islands/ColorMode.tsx": $$0,

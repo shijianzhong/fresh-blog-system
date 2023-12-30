@@ -16,7 +16,7 @@ export default function Footer() {
       children: [
         { name: "Blog", href: "/blog" },
         { name: "Contact", href: "/#contact" },
-        { name: "Pricing", href: "#" },
+        { name: "Pricing", href: "/pricing" },
       ],
     },
     // {
